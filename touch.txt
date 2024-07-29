@@ -4,6 +4,8 @@ public static void main (String agrs[]){
 
 
 System.out.println("heelo world");
+System.out.println("hello java");
+System.out.println(hello mava");
 
 {
 {
